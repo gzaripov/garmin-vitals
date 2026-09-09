@@ -1,0 +1,15 @@
+data/
+*.pyc
+__pycache__/
+.venv/
+.DS_Store
+settings.json
+.env
+.env.*
+!.env.example
+.garminconnect/
+*.log
+.pytest_cache/
+*.egg-info/
+dist/
+build/

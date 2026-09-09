@@ -1,0 +1,11 @@
+{
+  "id": "/",
+  "name": "Vitals",
+  "short_name": "Vitals",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f7f5",
+  "theme_color": "#136d61",
+  "icons": [{"src": "/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]
+}

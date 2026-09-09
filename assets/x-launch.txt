@@ -1,0 +1,19 @@
+POST 1
+
+Built Vitals for a clearer view of Garmin data: recovery, sleep, strain, and history—without another dashboard subscription.
+
+Runs locally. Open Python formulas. Try the synthetic demo without an account.
+
+https://github.com/gzaripov/garmin-vitals
+
+POST 2 (reply)
+
+This is an experiment, not a medical device or an official Garmin/WHOOP product. The estimates began with one-person comparisons, not clinical validation.
+
+Looking for Garmin users to try the demo and tell me what is confusing or missing.
+
+ATTACHMENT
+
+Use demo-desktop.png. It contains only generated synthetic data and is labeled Demo. Do not substitute an unredacted screenshot from a real installation.
+
+Suggested image alt text: Vitals local Garmin dashboard showing synthetic recovery, sleep and strain readings, recent trends, and navigation for Today, History, Health and Setup.
